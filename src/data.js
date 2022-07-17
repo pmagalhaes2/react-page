@@ -2,7 +2,7 @@ const projects = [
   {
     id: 1,
     name: "M de Maravilhosa",
-    gif: "/src/assets/m-de-maravilhosa.gif",
+    gif: "../src/assets/m-de-maravilhosa.gif",
     description:
       "Site desenvolvido com o intuíto de praticar HTML, CSS e Responsividade",
     link: "https://m-de-maravilhosa-patricia-magalhaes.netlify.app/",
@@ -10,7 +10,7 @@ const projects = [
   {
     id: 2,
     name: "ToDo List",
-    gif: "/src/assets/todo-list.gif",
+    gif: "../src/assets/todo-list.gif",
     description:
       "Site desenvolvido com o intuíto de praticar HTML, CSS e Javascript",
     link: "https://todo-list-reprograma.netlify.app/",
@@ -18,7 +18,7 @@ const projects = [
   {
     id: 3,
     name: "Digimon Card",
-    gif: "/src/assets/digimon.gif",
+    gif: "../src/assets/digimon.gif",
     description:
       "Site desenvolvido com o intuíto de praticar HTML, CSS, Javascript e consumo de API",
     link: "https://digimon-reprograma.netlify.app/",
@@ -26,7 +26,7 @@ const projects = [
   {
     id: 4,
     name: "GitHub Search",
-    gif: "/src/assets/github-search.gif",
+    gif: "../src/assets/github-search.gif",
     description:
       "Site desenvolvido com o intuíto de praticar HTML, CSS, Javascript e consumo de API",
     link: "https://reprograma-githubsearch.netlify.app/",
