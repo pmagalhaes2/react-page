@@ -1,5 +1,5 @@
 import Header from "../../components/Header/Header";
-import image from "../../assets/comments-icon.svg";
+import image from "../../assets/comments-image.svg";
 import { FiTrash2, FiPlus } from "react-icons/fi";
 import "./comentarios.css";
 import { useEffect, useState } from "react";

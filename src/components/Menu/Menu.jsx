@@ -10,6 +10,11 @@ function Menu() {
         </Link>
       </li>
       <li className="item">
+        <Link className="link" to="/diario-reprograma">
+          Reprograma
+        </Link>
+      </li>
+      <li className="item">
         <Link className="link" to="/portfolio">
           Porfólio
         </Link>
@@ -17,6 +22,11 @@ function Menu() {
       <li className="item">
         <Link className="link" to="/comentarios">
           Comentários
+        </Link>
+      </li>
+      <li className="item">
+        <Link className="link" to="/contato">
+          Contato
         </Link>
       </li>
     </ul>
